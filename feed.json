@@ -7,12 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://kashura.micro.blog/2023/10/04/ive-been-relying.html",
+				
+				"content_html": "<p>I’ve been relying too much on FastMail aliases. Not looking forward to trying to replace all of those as I migrate to Zoho.</p>\n",
+				"content_text": "I’ve been relying too much on FastMail aliases. Not looking forward to trying to replace all of those as I migrate to Zoho. \n",
+				"date_published": "2023-10-04T10:39:25-04:00",
+				"url": "https://valerakushnir.com/2023/10/04/ive-been-relying.html"
+			},
+			{
+				"id": "http://kashura.micro.blog/2023/09/23/united-grinding-out.html",
+				
+				"content_html": "<p>⚽️ United grinding out 3pts in an uninspiring performance. Rashfords body language is terrible, doesn’t work hard off the ball. Hojlund first 90 minutes.</p>\n",
+				"content_text": "⚽️ United grinding out 3pts in an uninspiring performance. Rashfords body language is terrible, doesn’t work hard off the ball. Hojlund first 90 minutes. \n",
+				"date_published": "2023-09-23T17:40:37-04:00",
+				"url": "https://valerakushnir.com/2023/09/23/united-grinding-out.html"
+			},
+			{
+				"id": "http://kashura.micro.blog/2023/09/23/dog-inflitration.html",
+				"title": "Dog inflitration",
+				"content_html": "<p>I have a dog. I love dogs. Dogs are the best.</p>\n<p>But people are really abusing common courtesy about where dogs are not supposed to be. I see dogs at Costco, Publix, Target, clothing stores. Today, two people brought in dogs into a kids playground.</p>\n<p>It is a problem. People don’t train little dogs, and often large dogs as well. Trust me, your dog willl be okay without you for a little bit. Have some respect towards other people around you.</p>\n<p>Dog tax attached.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I have a dog. I love dogs. Dogs are the best. \n\nBut people are really abusing common courtesy about where dogs are not supposed to be. I see dogs at Costco, Publix, Target, clothing stores. Today, two people brought in dogs into a kids playground. \n\nIt is a problem. People don’t train little dogs, and often large dogs as well. Trust me, your dog willl be okay without you for a little bit. Have some respect towards other people around you. \n\nDog tax attached. \n\n<img src=\"uploads/2023/ed27f181bf.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-09-23T14:45:57-04:00",
+				"url": "https://valerakushnir.com/2023/09/23/dog-inflitration.html",
+				"tags": ["Full Length"]
+			},
+			{
+				"id": "http://kashura.micro.blog/2023/09/19/unfortunately-didnt-pass.html",
+				
+				"content_html": "<p>Unfortunately didn&rsquo;t pass the SSCP test this morning. Was really close based on the categories, but not close enough. Now have to wait 30 days to retake.</p>\n",
+				"content_text": "Unfortunately didn't pass the SSCP test this morning. Was really close based on the categories, but not close enough. Now have to wait 30 days to retake. \n",
+				"date_published": "2023-09-19T13:00:53-04:00",
+				"url": "https://valerakushnir.com/2023/09/19/unfortunately-didnt-pass.html"
+			},
+			{
 				"id": "http://kashura.micro.blog/2023/09/18/taking-sscp-certification.html",
 				
 				"content_html": "<p>Taking SSCP certification tomorrow morning. I already have Security+, Network+ and A+ which covers most of what is covered by SSCP but I am still anxious.</p>\n",
 				"content_text": "Taking SSCP certification tomorrow morning. I already have Security+, Network+ and A+ which covers most of what is covered by SSCP but I am still anxious. \n",
 				"date_published": "2023-09-18T20:23:10-04:00",
-				"url": "https://valerakushnir.com/2023/09/18/taking-sscp-certification.html"
+				"url": "https://valerakushnir.com/2023/09/18/taking-sscp-certification.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://kashura.micro.blog/2023/09/16/im-here-for.html",
@@ -72,7 +106,7 @@
 				"id": "http://kashura.micro.blog/2023/08/20/pork-shoulder-prep.html",
 				
 				"content_html": "<p>Pork shoulder prep for this week on the Traeger. 225, spritz every hour. Going to pull it at about 198F internal.\nRecently got a <a href=\"https://meater.com/\">Meater+</a>thermometer that has been amazing for smoking food.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Pork shoulder prep for this week on the Traeger. 225, spritz every hour. Going to pull it at about 198F internal. \nRecently got a [Meater+](https://meater.com/)thermometer that has been amazing for smoking food. \n\n<img src=\"https://cdn.uploads.micro.blog/65644/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Pork shoulder prep for this week on the Traeger. 225, spritz every hour. Going to pull it at about 198F internal. \nRecently got a [Meater+](https://meater.com/)thermometer that has been amazing for smoking food. \n\n<img src=\"uploads/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-08-20T08:35:55-04:00",
 				"url": "https://valerakushnir.com/2023/08/20/pork-shoulder-prep.html",
 				"tags": ["Microposts"]
@@ -100,7 +134,8 @@
 				"content_html": "<p>💪 Celebrating 1 year of consistent gym attendance with a heavy leg day. This is the way.</p>\n",
 				"content_text": "💪 Celebrating 1 year of consistent gym attendance with a heavy leg day. This is the way. \n",
 				"date_published": "2023-08-16T17:56:51-04:00",
-				"url": "https://valerakushnir.com/2023/08/16/celebrating-year-of.html"
+				"url": "https://valerakushnir.com/2023/08/16/celebrating-year-of.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://kashura.micro.blog/2023/08/15/currently-reading-smart.html",
@@ -125,7 +160,8 @@
 				"content_html": "<p>⚽️ absolutely buzzzing for the first Man United match today! Can’t wait to see the difference Onana brings to our style.\nWith healthy Hojlund, and if we add Pavard &amp; Amrabat, this should be a season for the record books.</p>\n",
 				"content_text": "⚽️ absolutely buzzzing for the first Man United match today! Can’t wait to see the difference Onana brings to our style. \nWith healthy Hojlund, and if we add Pavard & Amrabat, this should be a season for the record books. \n",
 				"date_published": "2023-08-14T13:55:18-04:00",
-				"url": "https://valerakushnir.com/2023/08/14/absolutely-buzzzing-for.html"
+				"url": "https://valerakushnir.com/2023/08/14/absolutely-buzzzing-for.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://kashura.micro.blog/2023/08/12/only-matches-from.html",
@@ -141,7 +177,8 @@
 				"content_html": "<p>Currently, slowly (very slowly) working on combining photos across Google Photos, iCloud, M365, and my NAS. First objective is to get out of Google Photos ecosystem. Anyone have a suggestion on how to handle this in the most efficient manner?</p>\n",
 				"content_text": "Currently, slowly (very slowly) working on combining photos across Google Photos, iCloud, M365, and my NAS. First objective is to get out of Google Photos ecosystem. Anyone have a suggestion on how to handle this in the most efficient manner?\n",
 				"date_published": "2023-08-10T18:00:43-04:00",
-				"url": "https://valerakushnir.com/2023/08/10/currently-slowly-very.html"
+				"url": "https://valerakushnir.com/2023/08/10/currently-slowly-very.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://kashura.micro.blog/2023/08/09/woke-up-to.html",
@@ -149,7 +186,8 @@
 				"content_html": "<p>Woke up to the news of “here we go” with Maguire set to leave for West Ham! Shaping up to be an amazing window from Manchester United ⚽️</p>\n",
 				"content_text": "Woke up to the news of “here we go” with Maguire set to leave for West Ham! Shaping up to be an amazing window from Manchester United ⚽️\n",
 				"date_published": "2023-08-09T10:37:30-04:00",
-				"url": "https://valerakushnir.com/2023/08/09/woke-up-to.html"
+				"url": "https://valerakushnir.com/2023/08/09/woke-up-to.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://kashura.micro.blog/2023/08/08/as-a-new.html",
@@ -174,7 +212,8 @@
 				"content_html": "<p>I made a switch from a gas car to an electric RWD vehicle. I&rsquo;ve never driven an electric vehicle before and only been in one once. After a week of ownership I have a few thoughts.</p>\n<h2 id=\"i-totally-get-it\">I totally get it</h2>\n<p>It&rsquo;s been great. It&rsquo;s the fastest car I&rsquo;ve ever driven as the torque is insane. The top speed is supposed to be 140MPH, but i&rsquo;m not going anywhere near that. Merging onto highways and overtaking other cars when needed is a breeze.\nI was told I will miss the engine noise and vibrations from the lack of the engine but it hasn&rsquo;t been the case for me. The road noise is comfortable and it&rsquo;s quieter than the previous car. The vibrations from the engine was exactly what I never liked as it is (i&rsquo;m pretty sensitive to anomalies in car sounds and it just added stress to my daily driving knowing that something might be wrong with the car ).\nAdding a level 2 charger at home also made a massive difference. It is extremely convenient and is about 1/3rd of the gas prices.\nThe car also came with the Tesla Supercharger included. Even though my car is limited in speed of charging due to it&rsquo;s age, knowing that I can charge for free on any road trip is great.</p>\n<h2 id=\"its-basically-a-phone-with-wheels\">It&rsquo;s basically a phone with wheels</h2>\n<p>Everything is an app or via a touch screen. This part is pretty annoying.</p>\n<ul>\n<li>Unlock doors without fob? touchscreen</li>\n<li>Unlock charging port? either app or touchscreen inside the car.</li>\n<li>Want to change windshield wipers? dig through the touchscreen menu to put them in &ldquo;service mode&rdquo;.</li>\n</ul>\n<p>There are apps and games, and fart noises? And i&rsquo;ve had to soft reset the car several times which is also unusual.\nBut in general, there are too many examples to list of where standard features that traditional car manufacturers have via a button are buried in the software for no good reasons. With my car being 10 years old there are improvements that they have made on newer versions, however in some instances (AC vents) they took away the manual ability to change direction and hid them in software.</p>\n<h2 id=\"verdict\">Verdict</h2>\n<p>Very happy. I got a deal from a friend and I am overall very happy with the decision. The break even point is over a year but this calculation does not consider the fun factor that I am having driving this car. Surprisingly, lack of transmission opens up the space a lot, allowing my dog to fit in better and join us on more trips. And with having a hatch AND a frunk, we can actually fit more into the vehicle than our SUV.</p>\n",
 				"content_text": "I made a switch from a gas car to an electric RWD vehicle. I've never driven an electric vehicle before and only been in one once. After a week of ownership I have a few thoughts. \n\n## I totally get it\n\nIt's been great. It's the fastest car I've ever driven as the torque is insane. The top speed is supposed to be 140MPH, but i'm not going anywhere near that. Merging onto highways and overtaking other cars when needed is a breeze. \nI was told I will miss the engine noise and vibrations from the lack of the engine but it hasn't been the case for me. The road noise is comfortable and it's quieter than the previous car. The vibrations from the engine was exactly what I never liked as it is (i'm pretty sensitive to anomalies in car sounds and it just added stress to my daily driving knowing that something might be wrong with the car ).\nAdding a level 2 charger at home also made a massive difference. It is extremely convenient and is about 1/3rd of the gas prices. \nThe car also came with the Tesla Supercharger included. Even though my car is limited in speed of charging due to it's age, knowing that I can charge for free on any road trip is great. \n\n## It's basically a phone with wheels\n\nEverything is an app or via a touch screen. This part is pretty annoying. \n\n- Unlock doors without fob? touchscreen\n- Unlock charging port? either app or touchscreen inside the car.\n- Want to change windshield wipers? dig through the touchscreen menu to put them in \"service mode\". \n\nThere are apps and games, and fart noises? And i've had to soft reset the car several times which is also unusual. \nBut in general, there are too many examples to list of where standard features that traditional car manufacturers have via a button are buried in the software for no good reasons. With my car being 10 years old there are improvements that they have made on newer versions, however in some instances (AC vents) they took away the manual ability to change direction and hid them in software. \n\n## Verdict\n\nVery happy. I got a deal from a friend and I am overall very happy with the decision. The break even point is over a year but this calculation does not consider the fun factor that I am having driving this car. Surprisingly, lack of transmission opens up the space a lot, allowing my dog to fit in better and join us on more trips. And with having a hatch AND a frunk, we can actually fit more into the vehicle than our SUV.\n",
 				"date_published": "2023-08-05T23:15:08-04:00",
-				"url": "https://valerakushnir.com/2023/08/05/its-electric.html"
+				"url": "https://valerakushnir.com/2023/08/05/its-electric.html",
+				"tags": ["Full Length"]
 			},
 			{
 				"id": "http://kashura.micro.blog/2023/08/05/til-houston-zoning.html",
@@ -182,7 +221,8 @@
 				"content_html": "<p>After listening to the episode by <a href=\"https://podcasts.apple.com/us/podcast/why-cant-we-just-turn-the-empty-offices-into-apartments/id1614253637?i=1000623420256\">Search Engine podcast</a> I learned that there are no zoning laws in Houston! Well, I&rsquo;m sure there are some, but it sounds like it is pretty minor. The episode mentions a house that used to have a quiet backyard, until a rollercoaster was built there.</p>\n",
 				"content_text": "After listening to the episode by [Search Engine podcast](https://podcasts.apple.com/us/podcast/why-cant-we-just-turn-the-empty-offices-into-apartments/id1614253637?i=1000623420256) I learned that there are no zoning laws in Houston! Well, I'm sure there are some, but it sounds like it is pretty minor. The episode mentions a house that used to have a quiet backyard, until a rollercoaster was built there. \n",
 				"date_published": "2023-08-05T22:51:45-04:00",
-				"url": "https://valerakushnir.com/2023/08/05/til-houston-zoning.html"
+				"url": "https://valerakushnir.com/2023/08/05/til-houston-zoning.html",
+				"tags": ["Full Length","Today I Learned"]
 			},
 			{
 				"id": "http://kashura.micro.blog/2023/08/03/til-houston-zoning.html",
@@ -190,7 +230,8 @@
 				"content_html": "<p>After listening to the episode by Search Engine podcast I learned that there are no zoning laws in Houston! Well, I’m sure there are some, but it sounds like it is pretty minor. The episode mentions a house that used to have a quiet backyard, until a rollercoaster was built there.</p>\n",
 				"content_text": "After listening to the episode by Search Engine podcast I learned that there are no zoning laws in Houston! Well, I’m sure there are some, but it sounds like it is pretty minor. The episode mentions a house that used to have a quiet backyard, until a rollercoaster was built there.\n",
 				"date_published": "2023-08-03T00:00:00-04:00",
-				"url": "https://valerakushnir.com/2023/08/03/til-houston-zoning.html"
+				"url": "https://valerakushnir.com/2023/08/03/til-houston-zoning.html",
+				"tags": ["Full Length","Today I Learned"]
 			},
 			{
 				"id": "http://kashura.micro.blog/2023/07/25/toxic-productivity.html",
@@ -198,7 +239,8 @@
 				"content_html": "<p>A while ago I drastically reduced podcasts. Almost 2 years later and I haven’t subscribed to a new podcast and still listen to about 5 podcasts in total.</p>\n<p>The problem is that I do enjoy the podcasts and there are so many out there that I’d like to explore. A friend of mine was just laughing about a podcast discussing bad dates and how hilarious it was.</p>\n<p>Every year I set a goal for reading a cer&hellip;</p>\n",
 				"content_text": "A while ago I drastically reduced podcasts. Almost 2 years later and I haven’t subscribed to a new podcast and still listen to about 5 podcasts in total.\n\nThe problem is that I do enjoy the podcasts and there are so many out there that I’d like to explore. A friend of mine was just laughing about a podcast discussing bad dates and how hilarious it was.\n\nEvery year I set a goal for reading a cer...\n",
 				"date_published": "2023-07-25T00:00:00-04:00",
-				"url": "https://valerakushnir.com/2023/07/25/toxic-productivity.html"
+				"url": "https://valerakushnir.com/2023/07/25/toxic-productivity.html",
+				"tags": ["Full Length"]
 			},
 			{
 				"id": "http://kashura.micro.blog/2023/04/27/eu-regulations.html",
@@ -206,7 +248,8 @@
 				"content_html": "<p>Well, this is a first. Our flight from DUB to EDI was cancelled because….of a late delivery of a new aircraft.</p>\n<p>Maybe, it is not such a special reason for more frequent travelers, but this is the first time I have experienced this. The good news is that this warning was given to us even before we arrived to the airport. The bad news is that we have to spend an extra day outside of our final des&hellip;</p>\n",
 				"content_text": "Well, this is a first. Our flight from DUB to EDI was cancelled because….of a late delivery of a new aircraft.\n\nMaybe, it is not such a special reason for more frequent travelers, but this is the first time I have experienced this. The good news is that this warning was given to us even before we arrived to the airport. The bad news is that we have to spend an extra day outside of our final des...\n",
 				"date_published": "2023-04-27T00:00:00-04:00",
-				"url": "https://valerakushnir.com/2023/04/27/eu-regulations.html"
+				"url": "https://valerakushnir.com/2023/04/27/eu-regulations.html",
+				"tags": ["Full Length"]
 			},
 			{
 				"id": "http://kashura.micro.blog/2023/04/05/bsides-tampa.html",
@@ -214,7 +257,8 @@
 				"content_html": "<p>This weekend I got a chance to attend the Bsides Tampa 10th anniversary conference. It was my first cybersecurity conference.</p>\n<p>The material was great, but there were 2 sobering truths to me:</p>\n<p>THe industry is struggling with having jobs for entry level candidates. It is difficult to get your first opportunity in cyber.\nI hae been neglecting building my own skillset.</p>\n<p>The 1st truth is just &hellip;</p>\n",
 				"content_text": "This weekend I got a chance to attend the Bsides Tampa 10th anniversary conference. It was my first cybersecurity conference.\n\nThe material was great, but there were 2 sobering truths to me:\n\n\n  THe industry is struggling with having jobs for entry level candidates. It is difficult to get your first opportunity in cyber.\n  I hae been neglecting building my own skillset.\n\n\nThe 1st truth is just ...\n",
 				"date_published": "2023-04-05T00:00:00-04:00",
-				"url": "https://valerakushnir.com/2023/04/05/bsides-tampa.html"
+				"url": "https://valerakushnir.com/2023/04/05/bsides-tampa.html",
+				"tags": ["Full Length"]
 			},
 			{
 				"id": "http://kashura.micro.blog/2023/03/18/its-electric.html",
@@ -222,7 +266,8 @@
 				"content_html": "<p>I made a switch from a gas car to an electric RWD vehicle. I’ve never driven an electric vehicle before and only been in one once. After a week of ownership I have a few thoughts.</p>\n<p>I totally get it</p>\n<p>It’s been great. It’s the fastest car I’ve ever driven as the torque is insane. The top speed is supposed to be 140MPH, but i’m not going anywhere near that. Merging onto highways and overtaking oth&hellip;</p>\n",
 				"content_text": "I made a switch from a gas car to an electric RWD vehicle. I’ve never driven an electric vehicle before and only been in one once. After a week of ownership I have a few thoughts.\n\nI totally get it\n\nIt’s been great. It’s the fastest car I’ve ever driven as the torque is insane. The top speed is supposed to be 140MPH, but i’m not going anywhere near that. Merging onto highways and overtaking oth...\n",
 				"date_published": "2023-03-18T00:00:00-04:00",
-				"url": "https://valerakushnir.com/2023/03/18/its-electric.html"
+				"url": "https://valerakushnir.com/2023/03/18/its-electric.html",
+				"tags": ["Full Length"]
 			}
 	]
 }
