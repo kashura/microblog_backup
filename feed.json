@@ -7,11 +7,20 @@
 	"items": [
 		
 			{
+				"id": "http://kashura.micro.blog/2023/11/02/first-toastmasters-speech.html",
+				"title": "First Toastmasters Speech",
+				"content_html": "<p>Did my first Toastmasters speech today!</p>\n<p>I was mostly unprepared and haven&rsquo;t spent enough time rehearsing the speech, so in many ways I was &ldquo;winging it&rdquo; in the moment.</p>\n<p>I started out calmly, but as I progressed, I became super nervous. At some point I thought i will pass out :D But the audience (about 12 people in person and 3 remote) said I didn&rsquo;t come off nervous at all, which is a great compliment.</p>\n<p>I&rsquo;m really proud of myself. This felt very different than speaking in a meeting and I am looking forward to improving this skillset.</p>\n",
+				"content_text": "Did my first Toastmasters speech today! \n\nI was mostly unprepared and haven't spent enough time rehearsing the speech, so in many ways I was \"winging it\" in the moment. \n\nI started out calmly, but as I progressed, I became super nervous. At some point I thought i will pass out :D But the audience (about 12 people in person and 3 remote) said I didn't come off nervous at all, which is a great compliment. \n\nI'm really proud of myself. This felt very different than speaking in a meeting and I am looking forward to improving this skillset. \n",
+				"date_published": "2023-11-02T19:49:01-05:00",
+				"url": "https://valerakushnir.com/2023/11/02/first-toastmasters-speech.html",
+				"tags": ["Full Length"]
+			},
+			{
 				"id": "http://kashura.micro.blog/2023/10/30/passed-sscp.html",
 				"title": "Passed SSCP!",
 				"content_html": "<p>30 days after <a href=\"https://valerakushnir.com/2023/09/19/unfortunately-didnt-pass.html\">I didn&rsquo;t pass SSCP during first attempt</a>, I&rsquo;m super happy to share that I did pass on the 2nd attempt!</p>\n<p>I had 2 relatively crappy weeks preparing coming up to the retake, so I did not feel super confident. Material was mostly familiar, but the process was tough. 150 questions, 4 hours, no going back.</p>\n<p>The biggest help on this 2nd attempt was the official app. I picked it over Pocket Prep to ensure accuracy, and it was definitely sufficient. Will use it again when studying for CCSP!</p>\n",
 				"content_text": "30 days after [I didn't pass SSCP during first attempt](https://valerakushnir.com/2023/09/19/unfortunately-didnt-pass.html), I'm super happy to share that I did pass on the 2nd attempt! \r\n\r\nI had 2 relatively crappy weeks preparing coming up to the retake, so I did not feel super confident. Material was mostly familiar, but the process was tough. 150 questions, 4 hours, no going back. \r\n\r\nThe biggest help on this 2nd attempt was the official app. I picked it over Pocket Prep to ensure accuracy, and it was definitely sufficient. Will use it again when studying for CCSP!\n",
-				"date_published": "2023-10-30T11:03:57-04:00",
+				"date_published": "2023-10-30T10:03:57-05:00",
 				"url": "https://valerakushnir.com/2023/10/30/passed-sscp.html",
 				"tags": ["Full Length"]
 			},
@@ -20,7 +29,7 @@
 				
 				"content_html": "<p>Instant buy. Really enjoy Kashmirs work.\nShe’s the reporter that tried to actually live on Bitcoin back in 2013 and a couple of years ago tried to live without any services by big tech.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Instant buy. Really enjoy Kashmirs work. \nShe’s the reporter that tried to actually live on Bitcoin back in 2013 and a couple of years ago tried to live without any services by big tech. \n\n<img src=\"uploads/2023/image.png\" width=\"276\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-10-23T19:38:07-04:00",
+				"date_published": "2023-10-23T18:38:07-05:00",
 				"url": "https://valerakushnir.com/2023/10/23/instant-buy-really.html"
 			},
 			{
@@ -28,7 +37,7 @@
 				"title": "Fastmail to Zoho and back",
 				"content_html": "<p>When I switched from Google Suite to Fastmail, I began liking email again. Fastmail&rsquo;s interface is fast and simple. The updates are consistent and it has almost all of the features I would need. It&rsquo;s cheaper than Gsuite.\nThe only glaring negative was the lack of integrations, but I can live without those.</p>\n<p>However although cheaper, FastMail is still $80 for two users while Zoho mail is $30. So for the past few weeks I switched to Zoho and have been trying it out.</p>\n<p>It didn’t last. We are back to FastMail. Here is why:</p>\n<ol>\n<li><strong>Major Issue is Zoho UX.</strong> They have serious readability issues for their inbox. Fonts make it difficult to distinguish read and unread, and the entire inbox appears cluttered. There are no options to change font sizes either, so everything kind of blends in.</li>\n<li><strong>Unified inbox for external accounts is missing.</strong> I love that in FastMail I can fetch emails from other providers and they all come to the same inbox. Zoho separates these into separate accounts. I’d have to set up forwarding rules for everything to go to the same place which adds friction.</li>\n<li><strong>Wildcard addresses.</strong> FastMail handles this fantastically. I can create a new “from” address right in the compose screen. In Zoho I had to go to the admin console to create a new one. So if I signed up for a service with “alias@domain.com”, although I could receive that email I’d have to create it in the admin console in order to respond with it. FastMail wins hands down here.</li>\n</ol>\n<p>In the end, we know cheaper is not always better. But different, is not always better either.\nZoho has a lot going for it but it created more friction to my workflow and it just is not suited for my needs.</p>\n",
 				"content_text": "When I switched from Google Suite to Fastmail, I began liking email again. Fastmail's interface is fast and simple. The updates are consistent and it has almost all of the features I would need. It's cheaper than Gsuite. \nThe only glaring negative was the lack of integrations, but I can live without those. \n\nHowever although cheaper, FastMail is still $80 for two users while Zoho mail is $30. So for the past few weeks I switched to Zoho and have been trying it out. \n\nIt didn’t last. We are back to FastMail. Here is why: \n\n1. **Major Issue is Zoho UX.** They have serious readability issues for their inbox. Fonts make it difficult to distinguish read and unread, and the entire inbox appears cluttered. There are no options to change font sizes either, so everything kind of blends in.\n2. **Unified inbox for external accounts is missing.** I love that in FastMail I can fetch emails from other providers and they all come to the same inbox. Zoho separates these into separate accounts. I’d have to set up forwarding rules for everything to go to the same place which adds friction.\n3. **Wildcard addresses.** FastMail handles this fantastically. I can create a new “from” address right in the compose screen. In Zoho I had to go to the admin console to create a new one. So if I signed up for a service with “alias@domain.com”, although I could receive that email I’d have to create it in the admin console in order to respond with it. FastMail wins hands down here. \n\nIn the end, we know cheaper is not always better. But different, is not always better either. \nZoho has a lot going for it but it created more friction to my workflow and it just is not suited for my needs. \n",
-				"date_published": "2023-10-22T12:57:06-04:00",
+				"date_published": "2023-10-22T11:57:06-05:00",
 				"url": "https://valerakushnir.com/2023/10/22/fastmail-to-zoho.html",
 				"tags": ["Full Length"]
 			},
@@ -37,7 +46,7 @@
 				
 				"content_html": "<p>Scotts Totts has to be the hardest episode to watch on the Office.</p>\n",
 				"content_text": "Scotts Totts has to be the hardest episode to watch on the Office. \n",
-				"date_published": "2023-10-17T18:25:17-04:00",
+				"date_published": "2023-10-17T17:25:17-05:00",
 				"url": "https://valerakushnir.com/2023/10/17/scotts-totts-has.html"
 			},
 			{
@@ -45,7 +54,7 @@
 				
 				"content_html": "<p>Is iPhone 15 pro battery really this bad? I’m coming from 13 pro max and at 330pm I was already sitting at 35%. 4h 45m of screen active time is not insignificant. I wonder if the screen brightness is the driving factor here.</p>\n",
 				"content_text": "Is iPhone 15 pro battery really this bad? I’m coming from 13 pro max and at 330pm I was already sitting at 35%. 4h 45m of screen active time is not insignificant. I wonder if the screen brightness is the driving factor here. \n",
-				"date_published": "2023-10-16T15:54:57-04:00",
+				"date_published": "2023-10-16T14:54:57-05:00",
 				"url": "https://valerakushnir.com/2023/10/16/is-iphone-pro.html"
 			},
 			{
@@ -53,7 +62,7 @@
 				
 				"content_html": "<p>Invisalign for President 2024.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Invisalign for President 2024.\n\n<img src=\"uploads/2023/4e70b92180.jpg\" width=\"530\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-10-15T10:45:38-04:00",
+				"date_published": "2023-10-15T09:45:38-05:00",
 				"url": "https://valerakushnir.com/2023/10/15/invisalign-for-president.html"
 			},
 			{
@@ -61,7 +70,7 @@
 				"title": "A used mini fridge made me feel rich",
 				"content_html": "<p>I bought a used mini fridge, stocked it with favorite drinks, and I’ve never felt richer.</p>\n<p>I’ve always been really focused on not having sodas and juices around the house. In my eyes those things are unnecessary, budget busters, and of course not healthy. But they are a nice treat once in a while!</p>\n<p>Sometimes we would buy those things, be it coconut water, sparkling waters, or something similar. Beer from time to time, or even diet sodas. It was always a nice treat to have one, even with the negatives, in moderation it would be great to have it as an option around the house</p>\n<p>But I recently decided that in moderation. It is nice to offer it to guestss that come over. And I didnt expect how rich it made me feel.</p>\n<p>I think this is where Ramit Sethi comes to mind. This is not an expensive thing, but it really made our life a little richer.</p>\n",
 				"content_text": "I bought a used mini fridge, stocked it with favorite drinks, and I’ve never felt richer. \n\nI’ve always been really focused on not having sodas and juices around the house. In my eyes those things are unnecessary, budget busters, and of course not healthy. But they are a nice treat once in a while! \n\nSometimes we would buy those things, be it coconut water, sparkling waters, or something similar. Beer from time to time, or even diet sodas. It was always a nice treat to have one, even with the negatives, in moderation it would be great to have it as an option around the house\n\nBut I recently decided that in moderation. It is nice to offer it to guestss that come over. And I didnt expect how rich it made me feel. \n\nI think this is where Ramit Sethi comes to mind. This is not an expensive thing, but it really made our life a little richer. \n",
-				"date_published": "2023-10-14T22:04:18-04:00",
+				"date_published": "2023-10-14T21:04:18-05:00",
 				"url": "https://valerakushnir.com/2023/10/14/a-used-mini.html",
 				"tags": ["Full Length"]
 			},
@@ -70,7 +79,7 @@
 				
 				"content_html": "<p>I’ve been relying too much on FastMail aliases. Not looking forward to trying to replace all of those as I migrate to Zoho.</p>\n",
 				"content_text": "I’ve been relying too much on FastMail aliases. Not looking forward to trying to replace all of those as I migrate to Zoho. \n",
-				"date_published": "2023-10-04T10:39:25-04:00",
+				"date_published": "2023-10-04T09:39:25-05:00",
 				"url": "https://valerakushnir.com/2023/10/04/ive-been-relying.html"
 			},
 			{
@@ -78,15 +87,15 @@
 				
 				"content_html": "<p>⚽️ United grinding out 3pts in an uninspiring performance. Rashfords body language is terrible, doesn’t work hard off the ball. Hojlund first 90 minutes.</p>\n",
 				"content_text": "⚽️ United grinding out 3pts in an uninspiring performance. Rashfords body language is terrible, doesn’t work hard off the ball. Hojlund first 90 minutes. \n",
-				"date_published": "2023-09-23T17:40:37-04:00",
+				"date_published": "2023-09-23T16:40:37-05:00",
 				"url": "https://valerakushnir.com/2023/09/23/united-grinding-out.html"
 			},
 			{
 				"id": "http://kashura.micro.blog/2023/09/23/dog-inflitration.html",
 				"title": "Dog inflitration",
 				"content_html": "<p>I have a dog. I love dogs. Dogs are the best.</p>\n<p>But people are really abusing common courtesy about where dogs are not supposed to be. I see dogs at Costco, Publix, Target, clothing stores. Today, two people brought in dogs into a kids playground.</p>\n<p>It is a problem. People don’t train little dogs, and often large dogs as well. Trust me, your dog willl be okay without you for a little bit. Have some respect towards other people around you.</p>\n<p>Dog tax attached.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I have a dog. I love dogs. Dogs are the best. \n\nBut people are really abusing common courtesy about where dogs are not supposed to be. I see dogs at Costco, Publix, Target, clothing stores. Today, two people brought in dogs into a kids playground. \n\nIt is a problem. People don’t train little dogs, and often large dogs as well. Trust me, your dog willl be okay without you for a little bit. Have some respect towards other people around you. \n\nDog tax attached. \n\n<img src=\"uploads/2023/ed27f181bf.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-09-23T14:45:57-04:00",
+				"content_text": "I have a dog. I love dogs. Dogs are the best. \n\nBut people are really abusing common courtesy about where dogs are not supposed to be. I see dogs at Costco, Publix, Target, clothing stores. Today, two people brought in dogs into a kids playground. \n\nIt is a problem. People don’t train little dogs, and often large dogs as well. Trust me, your dog willl be okay without you for a little bit. Have some respect towards other people around you. \n\nDog tax attached. \n\n<img src=\"https://cdn.uploads.micro.blog/65644/2023/ed27f181bf.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-09-23T13:45:57-05:00",
 				"url": "https://valerakushnir.com/2023/09/23/dog-inflitration.html",
 				"tags": ["Full Length"]
 			},
@@ -95,7 +104,7 @@
 				
 				"content_html": "<p>Unfortunately didn&rsquo;t pass the SSCP test this morning. Was really close based on the categories, but not close enough. Now have to wait 30 days to retake.</p>\n",
 				"content_text": "Unfortunately didn't pass the SSCP test this morning. Was really close based on the categories, but not close enough. Now have to wait 30 days to retake. \n",
-				"date_published": "2023-09-19T13:00:53-04:00",
+				"date_published": "2023-09-19T12:00:53-05:00",
 				"url": "https://valerakushnir.com/2023/09/19/unfortunately-didnt-pass.html"
 			},
 			{
@@ -103,7 +112,7 @@
 				
 				"content_html": "<p>Taking SSCP certification tomorrow morning. I already have Security+, Network+ and A+ which covers most of what is covered by SSCP but I am still anxious.</p>\n",
 				"content_text": "Taking SSCP certification tomorrow morning. I already have Security+, Network+ and A+ which covers most of what is covered by SSCP but I am still anxious. \n",
-				"date_published": "2023-09-18T20:23:10-04:00",
+				"date_published": "2023-09-18T19:23:10-05:00",
 				"url": "https://valerakushnir.com/2023/09/18/taking-sscp-certification.html",
 				"tags": ["Microposts"]
 			},
@@ -112,7 +121,7 @@
 				
 				"content_html": "<p>I&rsquo;m here for the long haul but things on MB are <em>hard</em> more often than not.</p>\n",
 				"content_text": "I'm here for the long haul but things on MB are *hard* more often than not. \n",
-				"date_published": "2023-09-16T17:24:46-04:00",
+				"date_published": "2023-09-16T16:24:46-05:00",
 				"url": "https://valerakushnir.com/2023/09/16/im-here-for.html",
 				"tags": ["Microposts"]
 			},
@@ -121,7 +130,7 @@
 				"title": "Bsides St Pete",
 				"content_html": "<p>Attended <a href=\"https://www.bsidesstpete.com/\">Bsides St Pete</a>. Until earlier this year I had no idea how active Tampa Bay cyber scene is and now I found myself attending a 2nd Bsides in 1 year as well as multiple socials around ISC^2 chapter and others.</p>\n<p>This was definitely on a smaller scale than the Tampa Bsides. Less tracks, less sponsors, less attendees. It was great to see many (now) familiar faces nonetheless.</p>\n<p>I did not stay for the entire day and attended 3 topics:</p>\n<ol>\n<li>Opening talk on symptoms of burn out.</li>\n<li>Great presentation on starting the career in cyber, building home lab, and other suggestions.</li>\n<li>A &ldquo;urinal story&rdquo; discussing the gap in training investment into people by companies.</li>\n</ol>\n",
 				"content_text": "Attended [Bsides St Pete](https://www.bsidesstpete.com/). Until earlier this year I had no idea how active Tampa Bay cyber scene is and now I found myself attending a 2nd Bsides in 1 year as well as multiple socials around ISC^2 chapter and others. \n\nThis was definitely on a smaller scale than the Tampa Bsides. Less tracks, less sponsors, less attendees. It was great to see many (now) familiar faces nonetheless. \n\nI did not stay for the entire day and attended 3 topics:\n\n1. Opening talk on symptoms of burn out. \n2. Great presentation on starting the career in cyber, building home lab, and other suggestions. \n3. A \"urinal story\" discussing the gap in training investment into people by companies. \n",
-				"date_published": "2023-09-16T16:46:32-04:00",
+				"date_published": "2023-09-16T15:46:32-05:00",
 				"url": "https://valerakushnir.com/2023/09/16/attended-bsides-st.html",
 				"tags": ["Full Length"]
 			},
@@ -130,7 +139,7 @@
 				
 				"content_html": "<p>Began studying for SSCP. Currently on #28 out of 150 questions. 30 min in. No wonder they give you 4 hours for the actual exam.</p>\n",
 				"content_text": "Began studying for SSCP. Currently on #28 out of 150 questions. 30 min in. No wonder they give you 4 hours for the actual exam. \n",
-				"date_published": "2023-09-13T18:05:39-04:00",
+				"date_published": "2023-09-13T17:05:39-05:00",
 				"url": "https://valerakushnir.com/2023/09/13/began-studying-for.html",
 				"tags": ["Microposts"]
 			},
@@ -139,7 +148,7 @@
 				
 				"content_html": "<p>I recently subscribed to <a href=\"https://www.morningbrew.com/daily\">Morning Brew</a> email list and I&rsquo;m super delighted. I don&rsquo;t know anything about the people behind the website, but the content is solid and I like the tone used throughout writing.</p>\n",
 				"content_text": "I recently subscribed to [Morning Brew](https://www.morningbrew.com/daily) email list and I'm super delighted. I don't know anything about the people behind the website, but the content is solid and I like the tone used throughout writing. \n",
-				"date_published": "2023-09-06T21:38:47-04:00",
+				"date_published": "2023-09-06T20:38:47-05:00",
 				"url": "https://valerakushnir.com/2023/09/06/i-recently-subscribed.html",
 				"tags": ["Microposts"]
 			},
@@ -148,7 +157,7 @@
 				"title": "Updating calibre-web to 6.20",
 				"content_html": "<p>Ran into some issues updating calibre-web on my Synology server. After trying to update to version 6.20, I began receiving the following errors:</p>\n<p><code>&quot;flask-limiter&quot; is needed for calibre-web to run. Please install it using pip: &quot;pip install flask-limiter&quot;</code></p>\n<p>and</p>\n<p><code>ImportError: cannot import name 'CronTrigger' from 'cps.services.background_scheduler' (/calibre-web/app/cps/services/background_scheduler.py)</code> .</p>\n<p>Thankfully nothing too major, and these two quick commands fixed it:</p>\n<p><code>pip install flask-limiter</code></p>\n<p><code>pip install apscheduler</code></p>\n",
 				"content_text": "Ran into some issues updating calibre-web on my Synology server. After trying to update to version 6.20, I began receiving the following errors:\n\n` \"flask-limiter\" is needed for calibre-web to run. Please install it using pip: \"pip install flask-limiter\" `\n\nand\n\n` ImportError: cannot import name 'CronTrigger' from 'cps.services.background_scheduler' (/calibre-web/app/cps/services/background_scheduler.py) ` .\n\nThankfully nothing too major, and these two quick commands fixed it:\n\n`pip install flask-limiter`\n\n`pip install apscheduler`\n",
-				"date_published": "2023-09-02T14:59:38-04:00",
+				"date_published": "2023-09-02T13:59:38-05:00",
 				"url": "https://valerakushnir.com/2023/09/02/updating-calibreweb-to.html",
 				"tags": ["Full Length"]
 			},
@@ -157,7 +166,7 @@
 				
 				"content_html": "<p>⚽️ terrible first 5 minutes from United today. Lack of concentration, tired legs this early in the season. Looks like a team that is thinking really hard about every move. Lucky to pull the win back, but we have to be way better against Gunners next week.</p>\n",
 				"content_text": "⚽️ terrible first 5 minutes from United today. Lack of concentration, tired legs this early in the season. Looks like a team that is thinking really hard about every move. Lucky to pull the win back, but we have to be way better against Gunners next week. \n",
-				"date_published": "2023-08-26T13:26:32-04:00",
+				"date_published": "2023-08-26T12:26:32-05:00",
 				"url": "https://valerakushnir.com/2023/08/26/terrible-first-minutes.html",
 				"tags": ["Microposts"]
 			},
@@ -165,8 +174,8 @@
 				"id": "http://kashura.micro.blog/2023/08/20/pork-shoulder-prep.html",
 				
 				"content_html": "<p>Pork shoulder prep for this week on the Traeger. 225, spritz every hour. Going to pull it at about 198F internal.\nRecently got a <a href=\"https://meater.com/\">Meater+</a>thermometer that has been amazing for smoking food.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Pork shoulder prep for this week on the Traeger. 225, spritz every hour. Going to pull it at about 198F internal. \nRecently got a [Meater+](https://meater.com/)thermometer that has been amazing for smoking food. \n\n<img src=\"uploads/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-08-20T08:35:55-04:00",
+				"content_text": "Pork shoulder prep for this week on the Traeger. 225, spritz every hour. Going to pull it at about 198F internal. \nRecently got a [Meater+](https://meater.com/)thermometer that has been amazing for smoking food. \n\n<img src=\"https://cdn.uploads.micro.blog/65644/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-08-20T07:35:55-05:00",
 				"url": "https://valerakushnir.com/2023/08/20/pork-shoulder-prep.html",
 				"tags": ["Microposts"]
 			},
@@ -175,7 +184,7 @@
 				
 				"content_html": "<p>🎮 started Baldurs Gate yesterday. Never played a game like this since Civ. I can see spending 12 hours straight at a time 😂</p>\n",
 				"content_text": "🎮 started Baldurs Gate yesterday. Never played a game like this since Civ. I can see spending 12 hours straight at a time 😂\n",
-				"date_published": "2023-08-19T09:32:13-04:00",
+				"date_published": "2023-08-19T08:32:13-05:00",
 				"url": "https://valerakushnir.com/2023/08/19/started-baldurs-gate.html",
 				"tags": ["Microposts"]
 			},
@@ -184,7 +193,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780307765697\">The Secret History</a> by Donna Tartt 📚</p>\n<p>The first book I&rsquo;ve ever read at 1.0 speed. Great narration on Audible and fantastic characters. Highly, highly recommended, but be prepared for a slow burn story.</p>\n",
 				"content_text": "Finished reading: [The Secret History](https://micro.blog/books/9780307765697) by Donna Tartt 📚\n\nThe first book I've ever read at 1.0 speed. Great narration on Audible and fantastic characters. Highly, highly recommended, but be prepared for a slow burn story. \n",
-				"date_published": "2023-08-17T09:00:35-04:00",
+				"date_published": "2023-08-17T08:00:35-05:00",
 				"url": "https://valerakushnir.com/2023/08/17/finished-reading-the.html"
 			},
 			{
@@ -192,7 +201,7 @@
 				
 				"content_html": "<p>💪 Celebrating 1 year of consistent gym attendance with a heavy leg day. This is the way.</p>\n",
 				"content_text": "💪 Celebrating 1 year of consistent gym attendance with a heavy leg day. This is the way. \n",
-				"date_published": "2023-08-16T17:56:51-04:00",
+				"date_published": "2023-08-16T16:56:51-05:00",
 				"url": "https://valerakushnir.com/2023/08/16/celebrating-year-of.html",
 				"tags": ["Microposts"]
 			},
@@ -201,7 +210,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781523520121\">Smart Brevity</a> by Jim VandeHei 📚</p>\n<p>Really enjoying this short read. Highly recommend to buy it in print due to styling and organization vs digital or audio. Plenty of practical advice including using emojis at work!</p>\n",
 				"content_text": "Currently reading: [Smart Brevity](https://micro.blog/books/9781523520121) by Jim VandeHei 📚\r\n\r\nReally enjoying this short read. Highly recommend to buy it in print due to styling and organization vs digital or audio. Plenty of practical advice including using emojis at work!\n",
-				"date_published": "2023-08-15T22:34:22-04:00",
+				"date_published": "2023-08-15T21:34:22-05:00",
 				"url": "https://valerakushnir.com/2023/08/15/currently-reading-smart.html"
 			},
 			{
@@ -209,7 +218,7 @@
 				"title": "Starting on Micro.blog",
 				"content_html": "<p>It&rsquo;s been a few days since joining Micro.blog. I remember hearing about the platform on a podcast quite a few years ago, but I completely forgot it existed.\nI&rsquo;ve been using Jekyll and Github pages quite successfully for a few years, but I found my workflow to be a bit tedious and that if I didn&rsquo;t do anything with the site besides posting, with the next update or design change something would break. I&rsquo;m not a Ruby expert, nor do I want to be, so it became a headache.</p>\n<p>There are 2 main observations about Micro.blog:</p>\n<ol>\n<li>The community aspect is something that deserves a ton of recognition. This is, indeed, a place where you do want to write. The brief interactions have been great, and the community is very interesting. I love the fact that there is an actual community manager and weekly community events.</li>\n<li>Boy are some things not user friendly. This platform has a long way to go before it can be used by regular, non techie folks. Documentation is lacking and in some places is out of date. Without Hugo knowledge things are just <strong>hard</strong>.</li>\n</ol>\n<p>But, the community aspect is outweighing the negatives. Once I&rsquo;ll get to the point where my tinkering is satisfied with the way the site is set up, I can see myself sticking around here for a while and building on top of this platform.</p>\n",
 				"content_text": "It's been a few days since joining Micro.blog. I remember hearing about the platform on a podcast quite a few years ago, but I completely forgot it existed. \nI've been using Jekyll and Github pages quite successfully for a few years, but I found my workflow to be a bit tedious and that if I didn't do anything with the site besides posting, with the next update or design change something would break. I'm not a Ruby expert, nor do I want to be, so it became a headache. \n\nThere are 2 main observations about Micro.blog:\n\n1. The community aspect is something that deserves a ton of recognition. This is, indeed, a place where you do want to write. The brief interactions have been great, and the community is very interesting. I love the fact that there is an actual community manager and weekly community events.\n2. Boy are some things not user friendly. This platform has a long way to go before it can be used by regular, non techie folks. Documentation is lacking and in some places is out of date. Without Hugo knowledge things are just **hard**. \n\n But, the community aspect is outweighing the negatives. Once I'll get to the point where my tinkering is satisfied with the way the site is set up, I can see myself sticking around here for a while and building on top of this platform. \n",
-				"date_published": "2023-08-15T22:13:47-04:00",
+				"date_published": "2023-08-15T21:13:47-05:00",
 				"url": "https://valerakushnir.com/2023/08/15/starting-on-microblog.html",
 				"tags": ["Full Length"]
 			},
@@ -218,7 +227,7 @@
 				
 				"content_html": "<p>⚽️ absolutely buzzzing for the first Man United match today! Can’t wait to see the difference Onana brings to our style.\nWith healthy Hojlund, and if we add Pavard &amp; Amrabat, this should be a season for the record books.</p>\n",
 				"content_text": "⚽️ absolutely buzzzing for the first Man United match today! Can’t wait to see the difference Onana brings to our style. \nWith healthy Hojlund, and if we add Pavard & Amrabat, this should be a season for the record books. \n",
-				"date_published": "2023-08-14T13:55:18-04:00",
+				"date_published": "2023-08-14T12:55:18-05:00",
 				"url": "https://valerakushnir.com/2023/08/14/absolutely-buzzzing-for.html",
 				"tags": ["Microposts"]
 			},
@@ -227,7 +236,7 @@
 				
 				"content_html": "<p>⚽️ only 3 matches from the opening PL weekend are <strong>not</strong> on Peacock. What’s the point now, just move them all to peacock and be done. Tired of paying for 4 different services to watch soccer.</p>\n",
 				"content_text": "⚽️ only 3 matches from the opening PL weekend are **not** on Peacock. What’s the point now, just move them all to peacock and be done. Tired of paying for 4 different services to watch soccer. \n",
-				"date_published": "2023-08-12T07:48:40-04:00",
+				"date_published": "2023-08-12T06:48:40-05:00",
 				"url": "https://valerakushnir.com/2023/08/12/only-matches-from.html"
 			},
 			{
@@ -235,7 +244,7 @@
 				
 				"content_html": "<p>Currently, slowly (very slowly) working on combining photos across Google Photos, iCloud, M365, and my NAS. First objective is to get out of Google Photos ecosystem. Anyone have a suggestion on how to handle this in the most efficient manner?</p>\n",
 				"content_text": "Currently, slowly (very slowly) working on combining photos across Google Photos, iCloud, M365, and my NAS. First objective is to get out of Google Photos ecosystem. Anyone have a suggestion on how to handle this in the most efficient manner?\n",
-				"date_published": "2023-08-10T18:00:43-04:00",
+				"date_published": "2023-08-10T17:00:43-05:00",
 				"url": "https://valerakushnir.com/2023/08/10/currently-slowly-very.html",
 				"tags": ["Microposts"]
 			},
@@ -244,7 +253,7 @@
 				
 				"content_html": "<p>Woke up to the news of “here we go” with Maguire set to leave for West Ham! Shaping up to be an amazing window from Manchester United ⚽️</p>\n",
 				"content_text": "Woke up to the news of “here we go” with Maguire set to leave for West Ham! Shaping up to be an amazing window from Manchester United ⚽️\n",
-				"date_published": "2023-08-09T10:37:30-04:00",
+				"date_published": "2023-08-09T09:37:30-05:00",
 				"url": "https://valerakushnir.com/2023/08/09/woke-up-to.html",
 				"tags": ["Microposts"]
 			},
@@ -253,7 +262,7 @@
 				
 				"content_html": "<p>As a new user, micro.blog is pretty confusing. I think there is lots of opportunity to improve terminology around features. But, at first glance into it, the community aspect is a big positive to the platform.</p>\n",
 				"content_text": "As a new user, micro.blog is pretty confusing. I think there is lots of opportunity to improve terminology around features. But, at first glance into it, the community aspect is a big positive to the platform. \n",
-				"date_published": "2023-08-08T09:54:51-04:00",
+				"date_published": "2023-08-08T08:54:51-05:00",
 				"url": "https://valerakushnir.com/2023/08/08/as-a-new.html"
 			},
 			{
@@ -261,7 +270,7 @@
 				
 				"content_html": "<p>Studying cryptography will be the bane of my existence.</p>\n<ul>\n<li>Practice test? - Pass.</li>\n<li>Practice quizzes? - Solid!</li>\n<li>Actual proctored test? - Solid F.</li>\n</ul>\n",
 				"content_text": "Studying cryptography will be the bane of my existence. \n\n- Practice test? - Pass.\n- Practice quizzes? - Solid!\n- Actual proctored test? - Solid F. \n",
-				"date_published": "2023-08-06T15:36:08-04:00",
+				"date_published": "2023-08-06T14:36:08-05:00",
 				"url": "https://valerakushnir.com/2023/08/06/studying-cryptography-will.html",
 				"tags": ["Microposts"]
 			},
@@ -270,7 +279,7 @@
 				"title": "It's Electric",
 				"content_html": "<p>I made a switch from a gas car to an electric RWD vehicle. I&rsquo;ve never driven an electric vehicle before and only been in one once. After a week of ownership I have a few thoughts.</p>\n<h2 id=\"i-totally-get-it\">I totally get it</h2>\n<p>It&rsquo;s been great. It&rsquo;s the fastest car I&rsquo;ve ever driven as the torque is insane. The top speed is supposed to be 140MPH, but i&rsquo;m not going anywhere near that. Merging onto highways and overtaking other cars when needed is a breeze.\nI was told I will miss the engine noise and vibrations from the lack of the engine but it hasn&rsquo;t been the case for me. The road noise is comfortable and it&rsquo;s quieter than the previous car. The vibrations from the engine was exactly what I never liked as it is (i&rsquo;m pretty sensitive to anomalies in car sounds and it just added stress to my daily driving knowing that something might be wrong with the car ).\nAdding a level 2 charger at home also made a massive difference. It is extremely convenient and is about 1/3rd of the gas prices.\nThe car also came with the Tesla Supercharger included. Even though my car is limited in speed of charging due to it&rsquo;s age, knowing that I can charge for free on any road trip is great.</p>\n<h2 id=\"its-basically-a-phone-with-wheels\">It&rsquo;s basically a phone with wheels</h2>\n<p>Everything is an app or via a touch screen. This part is pretty annoying.</p>\n<ul>\n<li>Unlock doors without fob? touchscreen</li>\n<li>Unlock charging port? either app or touchscreen inside the car.</li>\n<li>Want to change windshield wipers? dig through the touchscreen menu to put them in &ldquo;service mode&rdquo;.</li>\n</ul>\n<p>There are apps and games, and fart noises? And i&rsquo;ve had to soft reset the car several times which is also unusual.\nBut in general, there are too many examples to list of where standard features that traditional car manufacturers have via a button are buried in the software for no good reasons. With my car being 10 years old there are improvements that they have made on newer versions, however in some instances (AC vents) they took away the manual ability to change direction and hid them in software.</p>\n<h2 id=\"verdict\">Verdict</h2>\n<p>Very happy. I got a deal from a friend and I am overall very happy with the decision. The break even point is over a year but this calculation does not consider the fun factor that I am having driving this car. Surprisingly, lack of transmission opens up the space a lot, allowing my dog to fit in better and join us on more trips. And with having a hatch AND a frunk, we can actually fit more into the vehicle than our SUV.</p>\n",
 				"content_text": "I made a switch from a gas car to an electric RWD vehicle. I've never driven an electric vehicle before and only been in one once. After a week of ownership I have a few thoughts. \n\n## I totally get it\n\nIt's been great. It's the fastest car I've ever driven as the torque is insane. The top speed is supposed to be 140MPH, but i'm not going anywhere near that. Merging onto highways and overtaking other cars when needed is a breeze. \nI was told I will miss the engine noise and vibrations from the lack of the engine but it hasn't been the case for me. The road noise is comfortable and it's quieter than the previous car. The vibrations from the engine was exactly what I never liked as it is (i'm pretty sensitive to anomalies in car sounds and it just added stress to my daily driving knowing that something might be wrong with the car ).\nAdding a level 2 charger at home also made a massive difference. It is extremely convenient and is about 1/3rd of the gas prices. \nThe car also came with the Tesla Supercharger included. Even though my car is limited in speed of charging due to it's age, knowing that I can charge for free on any road trip is great. \n\n## It's basically a phone with wheels\n\nEverything is an app or via a touch screen. This part is pretty annoying. \n\n- Unlock doors without fob? touchscreen\n- Unlock charging port? either app or touchscreen inside the car.\n- Want to change windshield wipers? dig through the touchscreen menu to put them in \"service mode\". \n\nThere are apps and games, and fart noises? And i've had to soft reset the car several times which is also unusual. \nBut in general, there are too many examples to list of where standard features that traditional car manufacturers have via a button are buried in the software for no good reasons. With my car being 10 years old there are improvements that they have made on newer versions, however in some instances (AC vents) they took away the manual ability to change direction and hid them in software. \n\n## Verdict\n\nVery happy. I got a deal from a friend and I am overall very happy with the decision. The break even point is over a year but this calculation does not consider the fun factor that I am having driving this car. Surprisingly, lack of transmission opens up the space a lot, allowing my dog to fit in better and join us on more trips. And with having a hatch AND a frunk, we can actually fit more into the vehicle than our SUV.\n",
-				"date_published": "2023-08-05T23:15:08-04:00",
+				"date_published": "2023-08-05T22:15:08-05:00",
 				"url": "https://valerakushnir.com/2023/08/05/its-electric.html",
 				"tags": ["Full Length"]
 			},
@@ -279,7 +288,7 @@
 				"title": "TIL - Houston Zoning Laws",
 				"content_html": "<p>After listening to the episode by <a href=\"https://podcasts.apple.com/us/podcast/why-cant-we-just-turn-the-empty-offices-into-apartments/id1614253637?i=1000623420256\">Search Engine podcast</a> I learned that there are no zoning laws in Houston! Well, I&rsquo;m sure there are some, but it sounds like it is pretty minor. The episode mentions a house that used to have a quiet backyard, until a rollercoaster was built there.</p>\n",
 				"content_text": "After listening to the episode by [Search Engine podcast](https://podcasts.apple.com/us/podcast/why-cant-we-just-turn-the-empty-offices-into-apartments/id1614253637?i=1000623420256) I learned that there are no zoning laws in Houston! Well, I'm sure there are some, but it sounds like it is pretty minor. The episode mentions a house that used to have a quiet backyard, until a rollercoaster was built there. \n",
-				"date_published": "2023-08-05T22:51:45-04:00",
+				"date_published": "2023-08-05T21:51:45-05:00",
 				"url": "https://valerakushnir.com/2023/08/05/til-houston-zoning.html",
 				"tags": ["Full Length","Today I Learned"]
 			},
@@ -288,7 +297,7 @@
 				"title": "TIL - Houston Zoning Laws",
 				"content_html": "<p>After listening to the episode by Search Engine podcast I learned that there are no zoning laws in Houston! Well, I’m sure there are some, but it sounds like it is pretty minor. The episode mentions a house that used to have a quiet backyard, until a rollercoaster was built there.</p>\n",
 				"content_text": "After listening to the episode by Search Engine podcast I learned that there are no zoning laws in Houston! Well, I’m sure there are some, but it sounds like it is pretty minor. The episode mentions a house that used to have a quiet backyard, until a rollercoaster was built there.\n",
-				"date_published": "2023-08-03T00:00:00-04:00",
+				"date_published": "2023-08-02T23:00:00-05:00",
 				"url": "https://valerakushnir.com/2023/08/03/til-houston-zoning.html",
 				"tags": ["Full Length","Today I Learned"]
 			},
@@ -297,7 +306,7 @@
 				"title": "Toxic Productivity",
 				"content_html": "<p>A while ago I drastically reduced podcasts. Almost 2 years later and I haven’t subscribed to a new podcast and still listen to about 5 podcasts in total.</p>\n<p>The problem is that I do enjoy the podcasts and there are so many out there that I’d like to explore. A friend of mine was just laughing about a podcast discussing bad dates and how hilarious it was.</p>\n<p>Every year I set a goal for reading a cer&hellip;</p>\n",
 				"content_text": "A while ago I drastically reduced podcasts. Almost 2 years later and I haven’t subscribed to a new podcast and still listen to about 5 podcasts in total.\n\nThe problem is that I do enjoy the podcasts and there are so many out there that I’d like to explore. A friend of mine was just laughing about a podcast discussing bad dates and how hilarious it was.\n\nEvery year I set a goal for reading a cer...\n",
-				"date_published": "2023-07-25T00:00:00-04:00",
+				"date_published": "2023-07-24T23:00:00-05:00",
 				"url": "https://valerakushnir.com/2023/07/25/toxic-productivity.html",
 				"tags": ["Full Length"]
 			},
@@ -306,7 +315,7 @@
 				"title": "EU 261 Regulations",
 				"content_html": "<p>Well, this is a first. Our flight from DUB to EDI was cancelled because….of a late delivery of a new aircraft.</p>\n<p>Maybe, it is not such a special reason for more frequent travelers, but this is the first time I have experienced this. The good news is that this warning was given to us even before we arrived to the airport. The bad news is that we have to spend an extra day outside of our final des&hellip;</p>\n",
 				"content_text": "Well, this is a first. Our flight from DUB to EDI was cancelled because….of a late delivery of a new aircraft.\n\nMaybe, it is not such a special reason for more frequent travelers, but this is the first time I have experienced this. The good news is that this warning was given to us even before we arrived to the airport. The bad news is that we have to spend an extra day outside of our final des...\n",
-				"date_published": "2023-04-27T00:00:00-04:00",
+				"date_published": "2023-04-26T23:00:00-05:00",
 				"url": "https://valerakushnir.com/2023/04/27/eu-regulations.html",
 				"tags": ["Full Length"]
 			},
@@ -315,7 +324,7 @@
 				"title": "Bsides Tampa",
 				"content_html": "<p>This weekend I got a chance to attend the Bsides Tampa 10th anniversary conference. It was my first cybersecurity conference.</p>\n<p>The material was great, but there were 2 sobering truths to me:</p>\n<p>THe industry is struggling with having jobs for entry level candidates. It is difficult to get your first opportunity in cyber.\nI hae been neglecting building my own skillset.</p>\n<p>The 1st truth is just &hellip;</p>\n",
 				"content_text": "This weekend I got a chance to attend the Bsides Tampa 10th anniversary conference. It was my first cybersecurity conference.\n\nThe material was great, but there were 2 sobering truths to me:\n\n\n  THe industry is struggling with having jobs for entry level candidates. It is difficult to get your first opportunity in cyber.\n  I hae been neglecting building my own skillset.\n\n\nThe 1st truth is just ...\n",
-				"date_published": "2023-04-05T00:00:00-04:00",
+				"date_published": "2023-04-04T23:00:00-05:00",
 				"url": "https://valerakushnir.com/2023/04/05/bsides-tampa.html",
 				"tags": ["Full Length"]
 			},
@@ -324,7 +333,7 @@
 				"title": "It's Electric",
 				"content_html": "<p>I made a switch from a gas car to an electric RWD vehicle. I’ve never driven an electric vehicle before and only been in one once. After a week of ownership I have a few thoughts.</p>\n<p>I totally get it</p>\n<p>It’s been great. It’s the fastest car I’ve ever driven as the torque is insane. The top speed is supposed to be 140MPH, but i’m not going anywhere near that. Merging onto highways and overtaking oth&hellip;</p>\n",
 				"content_text": "I made a switch from a gas car to an electric RWD vehicle. I’ve never driven an electric vehicle before and only been in one once. After a week of ownership I have a few thoughts.\n\nI totally get it\n\nIt’s been great. It’s the fastest car I’ve ever driven as the torque is insane. The top speed is supposed to be 140MPH, but i’m not going anywhere near that. Merging onto highways and overtaking oth...\n",
-				"date_published": "2023-03-18T00:00:00-04:00",
+				"date_published": "2023-03-17T23:00:00-05:00",
 				"url": "https://valerakushnir.com/2023/03/18/its-electric.html",
 				"tags": ["Full Length"]
 			}
