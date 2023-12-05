@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://kashura.micro.blog/2023/12/04/ive-been-playing.html",
+				
+				"content_html": "<p>I&rsquo;ve been playing with <a href=\"https://midjourney.com\">Midjourney</a> for the past few days. It is <strong>definitely</strong> not perfect, however when it&rsquo;s good it&rsquo;s <strong>scary good</strong>.</p>\n<p>Some prompts simply don&rsquo;t work, for example</p>\n<blockquote>\n<p>imagine an infographic with directions on how to parallel park</p>\n</blockquote>\n<p>produced a totally unwanted result.</p>\n<p>However, if we use this prompt</p>\n<blockquote>\n<p>imagine a toon style Grim Reaper that doesn’t know anything, clueless, high def resolution, ray tracing lighting, funny</p>\n</blockquote>\n<p>the produced result was about 90% perfect and you won&rsquo;t really find imperfections until you really look for them.</p>\n<p>I&rsquo;ve used it to generate some tattoo ideas, which were decent, but only about 60% of what I actually added in the prompt. Browsing the gallery of the images from the community there are absolutely stunning examples. When I look at those descriptions they are a lot more precise than mine, which means one must know how to ask this machine to do things vs me just poking around.</p>\n<blockquote>\n<p>Pop Art, Coastal village on a rocky shore with waves, Warwick Goble, Heinrich Kley, 2nd Century Encaustic painting on Wood, decaying paint curling and cracked, massive scale surrealism, abstract hyperrealism, iridescence, palette knife texture, exploration of form, dimensional arpeggios::2 Pop art pointillism illustration utilizing Alcohol Ink, fractal patterns, nautilus shapes, 3d spirograph depth, abstract texture, surreal nebula landscape::1</p>\n</blockquote>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "I've been playing with [Midjourney](https://midjourney.com) for the past few days. It is **definitely** not perfect, however when it's good it's **scary good**. \r\n\r\nSome prompts simply don't work, for example\r\n\r\n> imagine an infographic with directions on how to parallel park\r\n\r\nproduced a totally unwanted result. \r\n\r\nHowever, if we use this prompt\r\n\r\n> imagine a toon style Grim Reaper that doesn’t know anything, clueless, high def resolution, ray tracing lighting, funny\r\n\r\nthe produced result was about 90% perfect and you won't really find imperfections until you really look for them. \r\n\r\nI've used it to generate some tattoo ideas, which were decent, but only about 60% of what I actually added in the prompt. Browsing the gallery of the images from the community there are absolutely stunning examples. When I look at those descriptions they are a lot more precise than mine, which means one must know how to ask this machine to do things vs me just poking around. \r\n\r\n> Pop Art, Coastal village on a rocky shore with waves, Warwick Goble, Heinrich Kley, 2nd Century Encaustic painting on Wood, decaying paint curling and cracked, massive scale surrealism, abstract hyperrealism, iridescence, palette knife texture, exploration of form, dimensional arpeggios::2 Pop art pointillism illustration utilizing Alcohol Ink, fractal patterns, nautilus shapes, 3d spirograph depth, abstract texture, surreal nebula landscape::1\r\n\r\n\n\n<img src=\"uploads/2023/saint.javelin-an-infographic-with-directions-on-how-to-parall-abd40c7f-8e6a.png\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2023/saint.javelin-a-toon-style-grim-reaper-that-doesnt-know-anyth-d075e54b-80a4.png\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2023/brandonmc-pop-art-coastal-village-on-a-rocky-shore-with-waves-w-6159646e-eb.png\" width=\"336\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-12-04T20:54:41-05:00",
+				"url": "https://valerakushnir.com/2023/12/04/ive-been-playing.html"
+			},
+			{
+				"id": "http://kashura.micro.blog/2023/11/26/happy-pup-physically.html",
+				
+				"content_html": "<p>🐶 Happy pup. Physically tired and mentally stimulated.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🐶 Happy pup. Physically tired and mentally stimulated. \n\n<img src=\"uploads/2023/81cb61192d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-11-26T10:30:23-05:00",
+				"url": "https://valerakushnir.com/2023/11/26/happy-pup-physically.html"
+			},
+			{
+				"id": "http://kashura.micro.blog/2023/11/26/discovered-two-new.html",
+				
+				"content_html": "<p>🎮 discovered two new favorites this week: Battlebit Remastered and Deep Rock Galactic.\nReally enjoying both!</p>\n",
+				"content_text": "🎮 discovered two new favorites this week: Battlebit Remastered and Deep Rock Galactic. \nReally enjoying both!\n",
+				"date_published": "2023-11-26T10:27:39-05:00",
+				"url": "https://valerakushnir.com/2023/11/26/discovered-two-new.html"
+			},
+			{
 				"id": "http://kashura.micro.blog/2023/11/23/troubleshooting-microphone-issues.html",
 				"title": "Troubleshooting Microphone Issues",
 				"content_html": "<p>Unfortunately, I often forget how much better MacOS is about A/V input than Windows. Spent about 1.5 hours yesterday trying to troubleshoot why when using my Scarlett Solo PC audio would get picked up instead of the microphone audio&hellip;.well, turns out drivers is what I needed.</p>\n<p>It&rsquo;s been so long for me messing with the drivers that I didn&rsquo;t even go there first, which is an oversight. But now that it&rsquo;s fixed, happy to play with the 4th Gen Solo and a new AKG P120 I picked up!</p>\n",
@@ -70,7 +94,7 @@
 				"id": "http://kashura.micro.blog/2023/10/15/invisalign-for-president.html",
 				
 				"content_html": "<p>Invisalign for President 2024.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Invisalign for President 2024.\n\n<img src=\"uploads/2023/4e70b92180.jpg\" width=\"530\" height=\"600\" alt=\"\">\n",
+				"content_text": "Invisalign for President 2024.\n\n<img src=\"https://cdn.uploads.micro.blog/65644/2023/4e70b92180.jpg\" width=\"530\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-10-15T09:45:38-05:00",
 				"url": "https://valerakushnir.com/2023/10/15/invisalign-for-president.html"
 			},
