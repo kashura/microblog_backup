@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://kashura.micro.blog/2024/02/06/for-about-years.html",
+				
+				"content_html": "<p>For about 2 years I&rsquo;ve been using <a href=\"https://www.amazon.com/gp/product/B08MLB51ZS/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&amp;psc=1\">MikroTik hAP ac3</a> to run my home network. As I learned more about networking, I got more frustrated with limitations of Google Mesh (as well as data collection). RouterOS is definitely not easy and I have banged my head against the wall numerous times, but I considered it good for the sake of learning.</p>\n<p>Now, last week I added a <a href=\"https://www.amazon.com/gp/product/B09H2CCVZX/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&amp;psc=1\">MikroTik Cap XL ac</a> to the family. A friend of mine is making fun of me that I&rsquo;m about to have a ceiling mounted AP, but the speed is worth it!</p>\n<p>Last night I finally got it fully set up. The challenge with RouterOS documentation is that there are multiple versions since different devices use different licenses. Thus, finding a page that is up to date and applicable to your device is not always simple. \nI set up CAPsMAN and after a few reboots on the AP, everything finally clicked. The AP found the CAPsMan server and now I can control all the settings from the main router.</p>\n<p>The range of the network has definitely grown and it&rsquo;s not even mounted on the ceiling yet. The connection in the garage has always been barely existent, and I already see a dramatic difference.</p>\n",
+				"content_text": "For about 2 years I've been using [MikroTik hAP ac3](https://www.amazon.com/gp/product/B08MLB51ZS/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) to run my home network. As I learned more about networking, I got more frustrated with limitations of Google Mesh (as well as data collection). RouterOS is definitely not easy and I have banged my head against the wall numerous times, but I considered it good for the sake of learning. \r\n\r\nNow, last week I added a [MikroTik Cap XL ac](https://www.amazon.com/gp/product/B09H2CCVZX/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) to the family. A friend of mine is making fun of me that I'm about to have a ceiling mounted AP, but the speed is worth it!\r\n\r\nLast night I finally got it fully set up. The challenge with RouterOS documentation is that there are multiple versions since different devices use different licenses. Thus, finding a page that is up to date and applicable to your device is not always simple. \r\nI set up CAPsMAN and after a few reboots on the AP, everything finally clicked. The AP found the CAPsMan server and now I can control all the settings from the main router. \r\n\r\nThe range of the network has definitely grown and it's not even mounted on the ceiling yet. The connection in the garage has always been barely existent, and I already see a dramatic difference. \n",
+				"date_published": "2024-02-06T22:09:50-05:00",
+				"url": "https://valerakushnir.com/2024/02/06/for-about-years.html",
+				"tags": ["Full Length","Today I Learned"]
+			},
+			{
+				"id": "http://kashura.micro.blog/2024/01/23/i-have-audible.html",
+				
+				"content_html": "<p>I have 6 Audible credits that will expire in a month. MB community, recommend a book please? No genre limitation. 📚</p>\n",
+				"content_text": "I have 6 Audible credits that will expire in a month. MB community, recommend a book please? No genre limitation. 📚\n",
+				"date_published": "2024-01-23T20:55:23-05:00",
+				"url": "https://valerakushnir.com/2024/01/23/i-have-audible.html"
+			},
+			{
 				"id": "http://kashura.micro.blog/2023/12/04/bye-bye-nvidia.html",
 				
 				"content_html": "<p>Bye bye NVIDIA GPU and hello AMD 7800XT. Side note: have 3 fan GPUs were this big before? I barely fit into my Meshify C case.</p>\n<!-- raw HTML omitted -->\n",
@@ -103,7 +120,7 @@
 				"id": "http://kashura.micro.blog/2023/10/15/invisalign-for-president.html",
 				
 				"content_html": "<p>Invisalign for President 2024.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Invisalign for President 2024.\n\n<img src=\"uploads/2023/4e70b92180.jpg\" width=\"530\" height=\"600\" alt=\"\">\n",
+				"content_text": "Invisalign for President 2024.\n\n<img src=\"https://cdn.uploads.micro.blog/65644/2023/4e70b92180.jpg\" width=\"530\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-10-15T09:45:38-05:00",
 				"url": "https://valerakushnir.com/2023/10/15/invisalign-for-president.html"
 			},
@@ -136,7 +153,7 @@
 				"id": "http://kashura.micro.blog/2023/09/23/dog-inflitration.html",
 				"title": "Dog inflitration",
 				"content_html": "<p>I have a dog. I love dogs. Dogs are the best.</p>\n<p>But people are really abusing common courtesy about where dogs are not supposed to be. I see dogs at Costco, Publix, Target, clothing stores. Today, two people brought in dogs into a kids playground.</p>\n<p>It is a problem. People don’t train little dogs, and often large dogs as well. Trust me, your dog willl be okay without you for a little bit. Have some respect towards other people around you.</p>\n<p>Dog tax attached.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I have a dog. I love dogs. Dogs are the best. \n\nBut people are really abusing common courtesy about where dogs are not supposed to be. I see dogs at Costco, Publix, Target, clothing stores. Today, two people brought in dogs into a kids playground. \n\nIt is a problem. People don’t train little dogs, and often large dogs as well. Trust me, your dog willl be okay without you for a little bit. Have some respect towards other people around you. \n\nDog tax attached. \n\n<img src=\"uploads/2023/ed27f181bf.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "I have a dog. I love dogs. Dogs are the best. \n\nBut people are really abusing common courtesy about where dogs are not supposed to be. I see dogs at Costco, Publix, Target, clothing stores. Today, two people brought in dogs into a kids playground. \n\nIt is a problem. People don’t train little dogs, and often large dogs as well. Trust me, your dog willl be okay without you for a little bit. Have some respect towards other people around you. \n\nDog tax attached. \n\n<img src=\"https://cdn.uploads.micro.blog/65644/2023/ed27f181bf.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-23T13:45:57-05:00",
 				"url": "https://valerakushnir.com/2023/09/23/dog-inflitration.html",
 				"tags": ["Full Length"]
@@ -216,7 +233,7 @@
 				"id": "http://kashura.micro.blog/2023/08/20/pork-shoulder-prep.html",
 				
 				"content_html": "<p>Pork shoulder prep for this week on the Traeger. 225, spritz every hour. Going to pull it at about 198F internal.\nRecently got a <a href=\"https://meater.com/\">Meater+</a>thermometer that has been amazing for smoking food.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Pork shoulder prep for this week on the Traeger. 225, spritz every hour. Going to pull it at about 198F internal. \nRecently got a [Meater+](https://meater.com/)thermometer that has been amazing for smoking food. \n\n<img src=\"uploads/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Pork shoulder prep for this week on the Traeger. 225, spritz every hour. Going to pull it at about 198F internal. \nRecently got a [Meater+](https://meater.com/)thermometer that has been amazing for smoking food. \n\n<img src=\"https://cdn.uploads.micro.blog/65644/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-08-20T07:35:55-05:00",
 				"url": "https://valerakushnir.com/2023/08/20/pork-shoulder-prep.html",
 				"tags": ["Microposts"]
